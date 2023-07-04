@@ -2,13 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/Contact": "pages/Contact.js",
   "/": "pages/index.js",
-  "/404": "pages/404.js",
-  "/About": "pages/About.js",
-  "/Team": "pages/Team.js",
-  "/Service": "pages/Service.js",
-  "/Pricing": "pages/Pricing.js",
-  "/Portfolio": "pages/Portfolio.js",
-  "/Blog": "pages/Blog.js"
+  "/404": "pages/404.js"
 }
